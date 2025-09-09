@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Jack Reynolds 👋
 
-<!--
-**jack-dev-crypto/jack-dev-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack & Web3 Developer** | MERN Stack | dApps  
 
-Here are some ideas to get you started:
+I build clean, efficient, and scalable applications for startups and small to medium-sized businesses.  
+From modern web apps to decentralized solutions, I focus on performance, UX, and seamless integration.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Frontend:** React, Next.js, TailwindCSS, Zustand, TanStack Query  
+- **Backend:** Node.js, Express, MongoDB  
+- **Web3:** Solidity, Wagmi, WalletConnect, Ethers.js  
+- **Other Tools:** Git, REST APIs, Docker  
+
+---
+
+## 🌱 What I’m up to
+- Building performant **React dApps** with multi-wallet integration  
+- Exploring **UX improvements** with ShadCN UI & modern design systems  
+- Learning more about **scalable Web3 infra**  
+
+---
+
+## 📫 Connect with me
+- GitHub: [jack-dev-crypto](https://github.com/jack-dev-crypto)  
+- Email: jack035124@gmail.com
+
+---
+
+✨ _"Code should be clean, scalable, and future-ready."_  
